@@ -1,0 +1,45 @@
+body {
+    font-family: Arial;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.main-container {
+    width: 100%;
+}
+
+.left-panel {
+    width: 30%;
+    display: inline-block;
+    background-color: #87b9ff;
+    padding: 10px;
+    vertical-align: top;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+.right-panel {
+    width: 65%;
+    display: inline-block;
+    background-color: #ffffff;
+    padding: 10px;
+    vertical-align: top;
+    border: 1px solid #ccc;
+}
+
+.section-title {
+    background-color: #ddd;
+    padding: 4px;
+    font-size: 20px;
+}
+
+.music-block {
+    margin-top: 10px;
+}
+
+.music-item {
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+    margin-right: 10px;
+}
